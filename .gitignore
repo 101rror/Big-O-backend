@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+rest_api_env/
+
+# Environment Variables
+.env
