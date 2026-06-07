@@ -40,10 +40,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 ]
 
-EXTERNAL_APPS = [
-    "jazzmin",
-    "user",
-]
+EXTERNAL_APPS = ["jazzmin", "users", "analysis"]
 
 THIRDPARTY_APPS = [
     "rest_framework",
